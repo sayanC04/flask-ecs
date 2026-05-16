@@ -1,5 +1,5 @@
-i# #stage 1 image 
-FROM python:3.7
+#i# #stage 1 image 
+FROM python:3.10
 
 # Make a working directory
 WORKDIR /app
